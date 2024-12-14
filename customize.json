@@ -2,7 +2,11 @@
   "greeting": "Hey",
   "name": "Dhruvika",
   "greetingText": "I really like your name btw!",
+<<<<<<< HEAD
   "wishText": "May all your dreams come true and your year ahead be filled with happiness and success. ;)",
+=======
+  "wishText": "May all your dreams come true and your year ahead be filled with happiness and success.;)",
+>>>>>>> 4575e5c9e0b1ab75399499519362e83f97b9403e
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
